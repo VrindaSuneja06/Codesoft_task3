@@ -1,1 +1,1 @@
-# Codesoft_task3
+This Python program is a straightforward password generator. It prompts the user for a desired password length, generates a random password containing letters (both uppercase and lowercase), digits, and punctuation characters, and then displays the generated password to the user. The program continues to run until a valid password length is provided by the user.
